@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[4HealthyU]]></title>
         <description><![CDATA[4HealthyU]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/4healthyu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Aug 2016 09:26:52 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 15 Aug 2016 13:23:46 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/4healthyu/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0eb66ce-3822-4458-8e12-be6e7ce616cd.jpg">]]></description>
-            <link>undefined4healthyu/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2d1a2996-c3d6-4626-bc31-77a5ec402e05.jpg">]]></description>
+            <link>https://thegrid.ai/4healthyu/4healthyu/index.html</link>
             <guid isPermaLink="false">9e4d9644-4350-43f3-817f-c946bdb1f3fe</guid>
-            <pubDate>Mon, 15 Aug 2016 09:26:22 GMT</pubDate>
+            <pubDate>Mon, 15 Aug 2016 13:23:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
